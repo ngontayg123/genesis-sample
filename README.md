@@ -1,3 +1,5 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 # Genesis Sample Theme
 
 GitHub project link: https://github.com/studiopress/genesis-sample/.
